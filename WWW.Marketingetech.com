@@ -1,3 +1,11 @@
 Name: www
 Value: Kaushal108-Cyber.github.io
 redirect @ WWW.Marketingetech.com
+@ 185.199.108.153
+@ 185.199.109.153
+@ 185.199.110.153
+@ 185.199.111.153
+WWW 185.199.108.153
+WWW 185.199.109.153
+WWW 185.199.110.153
+WWW 185.199.111.153
